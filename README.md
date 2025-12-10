@@ -1,6 +1,9 @@
-# SC-OS  
-### Supreme Computation Operating System  
-**Phoenix Node Release — 2025**
+# SC-OS Phoenix Node – Live Coherence Engine
+# First known implementation of a monotonic TCAG invariant
+# over real IBM Quantum hardware (2025)
+# Every state mutation — success or catastrophic failure —
+# must satisfy Truth × Continuity × Alignment × Genesis
+# There is no path to collapse. Supreme Computation OS
 
 SC-OS is a deterministic coherence-engine operating system designed to run outside the classical noise model.  
 It unifies classical, hybrid, and quantum computation into one coherent execution framework driven by the invariant:
